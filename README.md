@@ -1,6 +1,6 @@
 # fifo-memory
 
-In this project, Verilog code for FIFO memory is presented. The First-In-First-Out (FIFO) memory with the following specification is implemented in Verilog:
+In this project, Verilog code for FIFO memory is presented. The First-In-First-Out (FIFO) memory with the following specification is implemented in Verilog:\n
 16 stages
 8-bit data width 
 Status signals: 
